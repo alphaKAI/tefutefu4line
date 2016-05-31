@@ -1,0 +1,11 @@
+{
+	"name": "tefutefuline",
+	"description": "A minimal D application.",
+	"copyright": "Copyright © 2016, alphakai",
+	"authors": ["alphakai"],
+	"dependencies": {
+		"vibe-d": "~>0.7.19",
+    "weatherd":"*"
+	},
+	"versions": ["VibeDefaultMain"]
+}
