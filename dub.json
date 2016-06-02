@@ -4,8 +4,7 @@
 	"copyright": "Copyright © 2016, alphakai",
 	"authors": ["alphakai"],
 	"dependencies": {
-		"vibe-d": "~>0.7.19",
-    "weatherd":"*"
+		"vibe-d": "~>0.7.19"
 	},
 	"versions": ["VibeDefaultMain"]
 }
